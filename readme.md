@@ -90,7 +90,7 @@ You can filter records by employee name, month, and year, and export them in Exc
 
 ## 6.0 Role Privileges
 
-### 🦸Super Administrator
+### Super Administrator
 
 This user has full access, including creating, editing, and deleting records.
 
