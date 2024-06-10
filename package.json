@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akhilesh29/payroll.git"
+    "url": "git+https://github.com/Akhilesh29/Payroll-Management-System.git"
   },
   "keywords": [
     "payroll",
@@ -24,9 +24,9 @@
   "author": "akhilesh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Akhilesh29/payroll/issues"
+    "url": "https://github.com/Akhilesh29/Payroll-Management-System/issues"
   },
-  "homepage": "https://github.com/Akhilesh29/payroll#readme",
+  "homepage": "https://github.com/Akhilesh29/Payroll-Management-System#readme",
   "dependencies": {
     "@sendgrid/mail": "^6.5.5",
     "bcryptjs": "^2.4.3",
